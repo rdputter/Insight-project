@@ -13,7 +13,7 @@ from sklearn.linear_model import LogisticRegression
 from . import simvec2score
 
 DATA_DIR = '../Data'
-DATA_FILE_NAME = 'Insurance Mappings RIbbon.xlsx'
+DATA_FILE_NAME = 'Insurance_Mappings_Ribbon.xlsx'
 TAXONOMY_SHEETNAME = 'Ribbon Insurance Taxonomy'
 MAPPED_PLANS_SHEETNAME = 'Confirmed Mappings to UUIDs'
 STATES_ABBREV_FILE_NAME = 'list_states_US.txt'
