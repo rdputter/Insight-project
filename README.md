@@ -24,7 +24,7 @@ This package was built for a 3-week consulting project with Ribbon Health as par
 * Pickled model(s) for mapping similarity vectors to scores are located in the [Models](models) folder:
     * [Models/logreg_default.sav](Models/logreg_default.sav): logistic regression model.
 
-
+* [Figures](Figures) folder contains illustrative image(s).
 
 ## Details
 
