@@ -16,7 +16,7 @@ This package was built for a 3-week consulting project with Ribbon Health as par
     * [examples_planmapper.py](Scripts/examples_planmapper.py): select an input string and use code in the classify_insurance package to recommend matching plan(s).
 
 
-* The [Data](data) folder would contain input data. However, because of the proprietary nature, this is <b>not</b> included in this repository.
+* The [Data](Data) folder would contain input data. However, because of the proprietary nature, this is <b>not</b> included in this repository. Instead, there is a placeholder file in the Data directory.
 
     * [Data/Insurance Mappings RIbbon.xlsx](Data/Insurance Mappings RIbbon.xlsx): Excel file with insurance taxonomy and mapped inputs.
 
