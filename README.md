@@ -18,7 +18,7 @@ This package was built for a 3-week consulting project with Ribbon Health as par
 
 * The [Data](Data) folder would contain input data. However, because of the proprietary nature, this is <b>not</b> included in this repository. Instead, there is a placeholder file in the Data directory.
 
-    * [Data/Insurance Mappings RIbbon.xlsx](Data/Insurance Mappings RIbbon.xlsx): Excel file with insurance taxonomy and mapped inputs.
+    * [Insurance Mappings RIbbon.xlsx](Data/Insurance Mappings RIbbon.xlsx): Excel file with insurance taxonomy and mapped inputs.
 
 
 * Pickled model(s) for mapping similarity vectors to scores are located in the [Models](models) folder:
