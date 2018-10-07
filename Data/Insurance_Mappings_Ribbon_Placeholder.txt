@@ -1,0 +1,2 @@
+Placeholder file.
+This folder should contain "Insurance Mappings RIbbon.xlsx" file for the code to run.
